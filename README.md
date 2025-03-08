@@ -1,12 +1,12 @@
 # CARS_Sales_Analysis_With_Python
 
-Car Sales Analysis in Python
+Car Sales Analysis in Python -
 
-Overview
+Overview -
 
 This project analyzes car sales data using Python. It involves data cleaning, exploratory data analysis (EDA), and visualization to derive meaningful insights about car types, horsepower, engine size, and pricing trends.
 
-Dataset
+Dataset -
 
 >>Source: The dataset contains details about various car brands, models, specifications, and sales data.
 
@@ -32,7 +32,7 @@ Dataset
 
 Steps Performed
 
-1. Data Cleaning
+1. Data Cleaning -
 
 Removed null values
 
@@ -45,7 +45,7 @@ Checked and handled duplicate entries
 ![6](https://github.com/user-attachments/assets/a77ab00f-3afc-4945-9f57-4b47fad8442d)
 
 
-2. Exploratory Data Analysis (EDA) & Visualizations
+2. Exploratory Data Analysis (EDA) & Visualizations -
 
 A. Top 5 Car Brands in the Dataset
 
@@ -59,7 +59,7 @@ Visualization: Bar Chart
 ![1 2](https://github.com/user-attachments/assets/5592f05f-d750-4eaf-b707-d334c099601d)
 
 
-B. Car Type Distribution (SUV vs Sedan)
+B. Car Type Distribution (SUV vs Sedan) -
 
 Insight: Found which car type is most common.
 
