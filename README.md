@@ -2,11 +2,11 @@
 
 Car Sales Analysis in Python -
 
-Overview -
+Overview :-
 
 This project analyzes car sales data using Python. It involves data cleaning, exploratory data analysis (EDA), and visualization to derive meaningful insights about car types, horsepower, engine size, and pricing trends.
 
-Dataset -
+Dataset :-
 
 >>Source: The dataset contains details about various car brands, models, specifications, and sales data.
 
