@@ -38,7 +38,7 @@ Removed null values
 
 Fixed incorrect data types (MSRP and Invoice converted from string to numeric values)
 
-Checked and handled duplicate entries
+Checked and handled duplicate entries-
 
 
 
