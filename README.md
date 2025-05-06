@@ -32,7 +32,7 @@ Dataset :-
 
 Steps Performed
 
-1. Data Cleaning -
+1. Data Cleaning :-
 
 Removed null values
 
