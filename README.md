@@ -30,7 +30,7 @@ Dataset :-
 
 >>Weight, Wheelbase, Length
 
-Steps Performed
+Steps Performed.
 
 1. Data Cleaning :-
 
